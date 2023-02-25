@@ -1,1 +1,2 @@
 Hello world!
+Making a small change to check if configuring VS code for git commit worked.
